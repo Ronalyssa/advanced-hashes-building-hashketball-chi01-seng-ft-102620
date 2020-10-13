@@ -17,7 +17,7 @@ def game_hash
         :slam_dunks => ""
         },
         {
-          :player_name => "Alan Anderson",
+          :player_name => "Reggie Evans",
           :number => "",
           :shoe => "",
           :points => "",
@@ -26,7 +26,19 @@ def game_hash
           :steals => "",
           :blocks => "",
           :slam_dunks => ""
-          }]
+          },
+          {
+            :player_name => "Reggie Evans",
+            :number => "",
+            :shoe => "",
+            :points => "",
+            :rebounds => "",
+            :assists => "",
+            :steals => "",
+            :blocks => "",
+            :slam_dunks => ""
+            }
+        ]
   },
     :away => {
       :team_name => "Charlotte Hornets",
