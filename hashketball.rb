@@ -14,7 +14,19 @@ def game_hash
         :assists => "",
         :steals => "",
         :blocks => "",
-        }]
+        :slam_dunks => ""
+        },
+        {
+          :player_name => "Alan Anderson",
+          :number => "",
+          :shoe => "",
+          :points => "",
+          :rebounds => "",
+          :assists => "",
+          :steals => "",
+          :blocks => "",
+          :slam_dunks => ""
+          }]
   },
     :away => {
       :team_name => "Charlotte Hornets",
@@ -28,6 +40,7 @@ def game_hash
         :assists => "",
         :steals => "",
         :blocks => "",
+        :slam_dunks => ""
         }]
     }
   }
