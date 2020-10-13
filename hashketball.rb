@@ -13,6 +13,7 @@ def game_hash
         :rebounds => "",
         :assists => "",
         :steals => "",
+        :blocks => "",
         }]
   },
     :away => {
@@ -26,6 +27,7 @@ def game_hash
         :rebounds => "",
         :assists => "",
         :steals => "",
+        :blocks => "",
         }]
     }
   }
