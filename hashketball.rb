@@ -11,6 +11,7 @@ def game_hash
         :shoe => "",
         :points => "",
         :rebounds => "",
+        :assists => "",
         }]
   },
     :away => {
@@ -22,6 +23,7 @@ def game_hash
         :shoe => "",
         :points => "",
         :rebounds => "",
+        :assists => "",
         }]
     }
   }
