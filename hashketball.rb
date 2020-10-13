@@ -10,6 +10,7 @@ def game_hash
         :number => "",
         :shoe => "",
         :points => "",
+        
         }]
   },
     :away => {
@@ -19,6 +20,7 @@ def game_hash
         :player_name => "",
         :number => "",
         :shoe => "",
+        :points => "",
         }]
     }
   }
